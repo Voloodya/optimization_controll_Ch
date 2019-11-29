@@ -1,0 +1,6 @@
+E:\C#\optimization_controller_all\optimization_controller_all\bin\Debug\optimization_controller_all.exe.config
+E:\C#\optimization_controller_all\optimization_controller_all\bin\Debug\optimization_controller_all.exe
+E:\C#\optimization_controller_all\optimization_controller_all\bin\Debug\optimization_controller_all.pdb
+E:\C#\optimization_controller_all\optimization_controller_all\obj\Debug\optimization_controller_all.csprojAssemblyReference.cache
+E:\C#\optimization_controller_all\optimization_controller_all\obj\Debug\optimization_controller_all.exe
+E:\C#\optimization_controller_all\optimization_controller_all\obj\Debug\optimization_controller_all.pdb
